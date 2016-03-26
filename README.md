@@ -1,5 +1,10 @@
 
+https://teratail.com/ の tag 毎の質問数と解決数の一覧を取得するためのスクリプトである。  
+
+gem のインストールと DB 作成をします。
+
     $ bundle install
+    $ rake db:migrate
 
 teratail の API トークンを環境変数に設定します。
 
@@ -22,3 +27,14 @@ download.rb は、データ取得をする開始ページとページ数を設�
 [CSVの例](tags.csv)  
 
 openofffice で開いてから質問数で降順ソート ![openofffice で質問数の降順ソート](openoffice.png)  
+
+ER図の生成
+-----------
+
+    $ pip install https://github.com/wandernauta/yuml/zipball/master
+    $ ruby app/db.rb | yuml -o 1.png
+    $ open 1.png
+
+生成例: ![1.pmg](1.png)
+
+See See http://planetruby.github.io/gems/rails-erd.html
