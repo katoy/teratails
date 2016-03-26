@@ -1,0 +1,863 @@
+Java,2727,3655,74.61
+Struts,82,100,82.00
+CSS,700,1083,64.64
+PHP,4250,5603,75.85
+Git,194,268,72.39
+C++,452,667,67.77
+CakePHP,490,713,68.72
+MySQL,1012,1376,73.55
+JavaScript,2186,3258,67.10
+jQuery,1100,1569,70.11
+Linux,589,820,71.83
+Eclipse,376,515,73.01
+HTML,1144,1717,66.63
+Apache Tomcat,5,7,71.43
+Ajax,181,277,65.34
+SQL,357,471,75.80
+iBATIS,1,2,50.00
+Apache,317,432,73.38
+Windows,193,276,69.93
+Access,57,66,86.36
+WordPress,449,838,53.58
+Symfony,48,58,82.76
+XAMPP,80,115,69.57
+CodeIgniter,44,70,62.86
+PHPUnit,30,48,62.50
+PostgreSQL,134,189,70.90
+Oracle,81,119,68.07
+POST,47,67,70.15
+SQLite,79,126,62.70
+Twitter,85,168,50.60
+Smarty,38,53,71.70
+MongoDB,67,92,72.83
+memcached,7,12,58.33
+XML,102,154,66.23
+Facebook,53,117,45.30
+Ethna,1,1,100.00
+Vim,108,146,73.97
+GitHub,91,131,69.47
+関数,32,43,74.42
+配列,122,148,82.43
+スコープ,2,2,100.00
+デバッグ,18,26,69.23
+フィルタ,2,3,66.67
+正規表現,127,158,80.38
+String,30,35,85.71
+アルゴリズム,55,82,67.07
+Spring,85,124,68.55
+C,541,737,73.41
+Ruby,1206,1740,69.31
+cURL,15,26,57.69
+OpenSSL,12,17,70.59
+SSL,58,92,63.04
+オブジェクト,21,25,84.00
+DateTime,10,11,90.91
+Groovy,1,4,25.00
+JSON,157,223,70.40
+include,10,12,83.33
+データベース,96,147,65.31
+date,14,15,93.33
+integer,2,3,66.67
+JOIN,5,5,100.00
+PDO,77,91,84.62
+UNIX,135,164,82.32
+セッション,31,40,77.50
+iframe,13,21,61.90
+iOS,630,1033,60.99
+Xcode,462,767,60.23
+URL,34,51,66.67
+Perl,112,145,77.24
+コマンドライン,19,27,70.37
+NetBeans,22,39,56.41
+Objective-C,374,644,58.07
+コピー,1,4,25.00
+ソート,13,14,92.86
+Cookie,17,26,65.38
+コマンド,59,77,76.62
+.htaccess,63,87,72.41
+Android,1178,1880,62.66
+INSERT,6,9,66.67
+mysqli,23,28,82.14
+Rails,842,1357,62.05
+foreach,18,22,81.82
+JSP,189,255,74.12
+JUnit,83,93,89.25
+UTF-8,18,22,81.82
+Webサーバー,55,95,57.89
+Laravel,108,156,69.23
+Laravel 4,176,191,92.15
+多次元配列,4,5,80.00
+Excel,140,204,68.63
+HTTPS,21,35,60.00
+SSH,75,95,78.95
+Apache Maven 2,7,7,100.00
+MacOS(OSX),241,362,66.57
+CentOS,397,562,70.64
+Zend Framework,20,26,76.92
+Python,349,578,60.38
+HTML5,540,816,66.18
+onclick,4,7,57.14
+Qt,10,24,41.67
+Gradle,27,36,75.00
+Emacs,16,23,69.57
+Framework,23,32,71.88
+Atom(言語),1,2,50.00
+Twig,10,14,71.43
+バージョン管理,6,10,60.00
+COCOS2D-X,33,65,50.77
+Subversion,13,19,68.42
+Webサイト,159,253,62.85
+AWS(Amazon Web Services),115,224,51.34
+CoffeeScript,49,62,79.03
+TypeScript,18,28,64.29
+teratail,148,210,70.48
+プログラミング言語,184,271,67.90
+Email,19,24,79.17
+コンストラクタ,10,10,100.00
+VirtualBox,74,116,63.79
+Vagrant,143,242,59.09
+Google API,38,88,43.18
+Ruby on Rails 4,383,657,58.30
+Chrome,58,108,53.70
+RSS,21,36,58.33
+RubyGems,32,74,43.24
+IntelliJ IDEA,9,20,45.00
+sh,25,36,69.44
+API,136,247,55.06
+Dart,12,12,100.00
+Android Studio,399,669,59.64
+Scala,25,41,60.98
+Haskell,6,12,50.00
+OCaml,2,4,50.00
+SML,1,2,50.00
+Rust,1,3,33.33
+Swift,768,1241,61.89
+AngularJS,108,177,61.02
+Ubuntu,167,253,66.01
+PECL,11,12,91.67
+Markdown,7,11,63.64
+C++11,36,55,65.45
+Mecab,12,20,60.00
+GET,16,23,69.57
+Node.js,227,346,65.61
+WebKit,4,5,80.00
+ビルド,3,8,37.50
+WebSocket,28,47,59.57
+Jenkins,24,33,72.73
+Twitter Bootstrap,15,19,78.95
+FuelPHP,179,256,69.92
+Chef,10,24,41.67
+Thymeleaf,37,44,84.09
+NoSQL,5,9,55.56
+MyBatis,13,16,81.25
+VoltDB,1,1,100.00
+Internet Explorer,35,61,57.38
+Firefox,26,43,60.47
+Swing,51,61,83.61
+デザイン,24,39,61.54
+Doctrine2,4,8,50.00
+zsh,12,18,66.67
+PDF,28,60,46.67
+ArrayList,16,20,80.00
+Generics,2,3,66.67
+Eclipse Plugin,21,36,58.33
+JAR,26,30,86.67
+セグメンテーション違反,1,1,100.00
+Zend Framework 2,17,24,70.83
+Google Apps Script,36,59,61.02
+IDE,11,26,42.31
+セキュリティー,81,131,61.83
+CSS3,278,418,66.51
+Three.js,8,16,50.00
+WebGL,8,13,61.54
+C#,694,1009,68.78
+Unity,235,439,53.53
+iPhone,185,309,59.87
+サーバ,148,242,61.16
+OS,25,50,50.00
+Meteor,3,4,75.00
+Sass,27,49,55.10
+Applet,3,5,60.00
+PEAR,93,99,93.94
+JavaFX,57,83,68.67
+Oracle Database 11g,45,58,77.59
+Clojure,1,3,33.33
+ネットワーク,78,123,63.41
+bash,79,104,75.96
+Express,26,42,61.90
+Cygwin,24,27,88.89
+Photoshop,16,26,61.54
+シェル,43,49,87.76
+Amazon EC2,14,21,66.67
+phpMyAdmin,83,105,79.05
+Amazon VPC,0,1,0.00
+Python 2.7,162,237,68.35
+SQL Server,72,110,65.45
+LINQ to SQL,3,6,50.00
+LINQ,10,14,71.43
+jQuery UI,50,68,73.53
+Unity3D,82,169,48.52
+Lua,22,28,78.57
+Tomcat,98,137,71.53
+Redmine,28,63,44.44
+Socket.IO,26,51,50.98
+GitLab,16,23,69.57
+AIR,1,3,33.33
+LDAP,15,18,83.33
+samba,9,12,75.00
+LINQ to Dataset,1,1,100.00
+LISP,13,25,52.00
+REST,11,16,68.75
+キャッシュ,11,17,64.71
+Heroku,40,80,50.00
+if,27,33,81.82
+検索,11,22,50.00
+R,24,47,51.06
+button,16,21,76.19
+yum,20,29,68.97
+Android NDK,3,13,23.08
+JDBC,15,17,88.24
+MariaDB,25,33,75.76
+nginx,132,196,67.35
+Transact-SQL,4,5,80.00
+ヒカラボ 菊池,0,1,0.00
+HTTP,78,120,65.00
+selenium,40,71,56.34
+Windows Server,20,32,62.50
+compass,7,14,50.00
+Apache Maven,3,4,75.00
+Debian,17,23,73.91
+MVC,38,56,67.86
+VMware,21,33,63.64
+Docker,55,81,67.90
+トランザクション,3,4,75.00
+バックグラウンド処理,2,3,66.67
+同期,3,9,33.33
+Go,60,79,75.95
+Visual Studio,129,186,69.35
+Active Record,34,73,46.58
+Java EE,79,125,63.20
+Postfix,47,63,74.60
+ウェブブラウザ,3,3,100.00
+Windows 7,63,98,64.29
+Ruby on Rails 3,20,35,57.14
+バリデーション,7,10,70.00
+RSpec,31,57,54.39
+アーキテクチャ,7,12,58.33
+cron,22,32,68.75
+Cordova,33,73,45.21
+CSV,63,85,74.12
+Sinatra,15,22,68.18
+Django,37,63,58.73
+jQueryプラグイン,47,78,60.26
+Yii,1,2,50.00
+Joomla!,1,5,20.00
+AWK,11,14,78.57
+Internet Explorer 8,7,10,70.00
+Flash,7,15,46.67
+Hadoop,20,31,64.52
+VBA,175,224,78.12
+Android Widget,7,17,41.18
+Bootstrap,103,169,60.95
+sed,12,16,75.00
+アップロード,11,19,57.89
+Authentication,4,14,28.57
+DELETE,1,3,33.33
+Java Persistence API,1,1,100.00
+デザインパターン,12,22,54.55
+VB,82,98,83.67
+.NET Framework,88,115,76.52
+Ansible,18,23,78.26
+Google,45,94,47.87
+iOS 6,4,4,100.00
+Slim,17,22,77.27
+iOS 7,2,10,20.00
+Apache Ant,1,1,100.00
+iOS 8,50,90,55.56
+Sencha Touch,2,4,50.00
+Python 3.x,120,192,62.50
+TCP,26,47,55.32
+Arduino,37,57,64.91
+Sencha Ext JS,1,1,100.00
+Sencha Ext JS 4,1,1,100.00
+Symfony2,24,43,55.81
+キャスト,5,5,100.00
+SMS,2,2,100.00
+Knockout.js,31,37,83.78
+altJS,6,6,100.00
+ポインタ,17,21,80.95
+XAML,35,44,79.55
+CMS,44,66,66.67
+プロキシ,7,8,87.50
+proxy,12,16,75.00
+ロードバランサー,6,9,66.67
+負荷分散,2,5,40.00
+Zabbix,3,6,50.00
+D3.js,15,28,53.57
+Twilio,0,3,0.00
+Elasticsearch,14,22,63.64
+MVVM,11,16,68.75
+JavaServer Faces 2,3,5,60.00
+pandas,12,14,85.71
+Hive,11,17,64.71
+FFmpeg,12,29,41.38
+Hibernate,11,14,78.57
+Play Framework,10,13,76.92
+Safari,15,34,44.12
+pip,22,28,78.57
+IIS,14,30,46.67
+IIS 7,7,12,58.33
+Rocketeer,1,1,100.00
+Jersey,7,7,100.00
+ActionScript 3,7,11,63.64
+非同期処理,12,14,85.71
+Alternative PHP Cache (APC),1,1,100.00
+Scrapy,2,6,33.33
+jQuery Mobile,3,9,33.33
+モーダルダイアログ,0,1,0.00
+オブジェクト指向,36,53,67.92
+Google Map,36,63,57.14
+保存,2,3,66.67
+import,5,11,45.45
+makefile,6,8,75.00
+マクロ,19,29,65.52
+Eloquent,18,18,100.00
+div,3,7,42.86
+SVN,12,20,60.00
+TortoiseSVN,4,4,100.00
+Model,15,19,78.95
+jade,9,11,81.82
+継承,9,10,90.00
+Google Analytics,19,41,46.34
+Java ME,2,10,20.00
+servlet,82,110,74.55
+HTTPヘッダー,20,26,76.92
+Gmail,17,24,70.83
+SMTP,13,21,61.90
+Blade,9,10,90.00
+レスポンシブWebデザイン,40,61,65.57
+XSS,4,9,44.44
+NumPy,12,18,66.67
+DirectX,7,17,41.18
+Devise,17,38,44.74
+Windows 8,26,45,57.78
+GCC,19,31,61.29
+VBScript,38,56,67.86
+PowerShell,23,36,63.89
+コマンドプロンプト,30,40,75.00
+Active Directory,3,7,42.86
+Cassandra,3,5,60.00
+データベース設計,15,20,75.00
+mbed,4,8,50.00
+CyaSSL,1,1,100.00
+ORM,7,13,53.85
+文字コード,44,57,77.19
+Backbone.js,11,24,45.83
+Illustrator,6,12,50.00
+ルーティング,11,14,78.57
+FTP,46,73,63.01
+Doctrine,0,2,0.00
+UDP,10,15,66.67
+knife,1,4,25.00
+grep,5,7,71.43
+rpm,3,4,75.00
+リファクタリング,3,4,75.00
+Matplotlib,2,7,28.57
+データマイニング,6,9,66.67
+統計,5,14,35.71
+Outlook,6,9,66.67
+Apache Solr,0,2,0.00
+エスケープ処理,3,3,100.00
+マルチスレッド,8,14,57.14
+自然言語処理,5,9,55.56
+Google Play,9,11,81.82
+Brackets,3,12,25.00
+Facebook Graph API,5,31,16.13
+jqGrid,2,2,100.00
+Bluetooth,16,32,50.00
+Seasar2,16,25,64.00
+canvas,35,59,59.32
+ファイル,21,32,65.62
+OpenGL ES,5,10,50.00
+OpenCV,43,75,57.33
+ハッシュマップ,2,2,100.00
+OAuth,16,30,53.33
+CUDA,5,7,71.43
+CSRF,6,8,75.00
+パスワード,5,10,50.00
+ログイン,8,16,50.00
+DXライブラリ,4,7,57.14
+ユニットテスト,4,5,80.00
+最適化,2,4,50.00
+Namespace,4,4,100.00
+DNS,29,47,61.70
+GlassFish,16,25,64.00
+Windows Forms,8,11,72.73
+プラグイン,25,55,45.45
+MATLAB,10,15,66.67
+OpenID,6,7,85.71
+Visual C++,23,44,52.27
+3DCG,9,16,56.25
+アジャイル,4,6,66.67
+iPad,27,40,67.50
+for,32,41,78.05
+VPS,39,64,60.94
+サービス,10,17,58.82
+Raspberry Pi,39,68,57.35
+SEO,19,31,61.29
+メール,39,63,61.90
+SDK,10,28,35.71
+SOAP,2,5,40.00
+artisan,5,6,83.33
+Play Framework 2,11,17,64.71
+jQuery Validation Plugin,2,3,66.67
+Internet Explorer 7,0,1,0.00
+iPhone 6,23,31,74.19
+ハッシュ,7,9,77.78
+コーディング規約,9,14,64.29
+docomo API,5,5,100.00
+パス,3,4,75.00
+Amazon S3,3,9,33.33
+プロ生 第32回,0,11,0.00
+Chrome Packaged Apps,0,1,0.00
+Lucene,1,1,100.00
+Atom (テキストエディタ),31,61,50.82
+Google App Engine,20,41,48.78
+UDK(UnrealDevelopmentKit),1,2,50.00
+リダイレクト,10,13,76.92
+LaTeX,3,10,30.00
+Ghost,2,2,100.00
+App Store,16,38,42.11
+mod_rewrite,12,19,63.16
+Xcode 4,10,18,55.56
+Cocos2d,6,14,42.86
+ActionBar,1,2,50.00
+ウェブアプリケーション,2,7,28.57
+composer,13,22,59.09
+テスト駆動開発,16,27,59.26
+YouTube,11,17,64.71
+XHProf,1,1,100.00
+Flask,3,5,60.00
+Tkinter,4,7,57.14
+ImageMagick,9,16,56.25
+Visual Basic .NET,19,27,70.37
+置換,3,4,75.00
+Cacti,1,4,25.00
+ASP,3,8,37.50
+イベントハンドラ,9,11,81.82
+SNS,14,26,53.85
+PrimeFaces,7,13,53.85
+GD(Graphics Library),3,5,60.00
+コンパイル,14,17,82.35
+クロージャ,1,5,20.00
+Razor,1,4,25.00
+COBOL,4,8,50.00
+node-webkit,2,4,50.00
+Cocoa,9,14,64.29
+Win32 API,30,41,73.17
+JFrame,3,5,60.00
+OpenGL,14,30,46.67
+タグ,11,20,55.00
+TinyMCE,1,3,33.33
+i18n,1,1,100.00
+Xamarin,3,6,50.00
+kohana,1,1,100.00
+パフォーマンス,3,5,60.00
+YouTube API,9,18,50.00
+sublimetext,41,62,66.13
+ASP.NET,42,85,49.41
+COUNT,4,4,100.00
+NSMutableArray,0,1,0.00
+enchant.js ,1,4,25.00
+ヒカラボ 尾崎,3,4,75.00
+機械学習,19,35,54.29
+Windows Installer XML,0,1,0.00
+Android Wear,14,26,53.85
+HttpWebRequest,13,15,86.67
+XMLパーサ,11,17,64.71
+Word,8,12,66.67
+FileMaker,1,4,25.00
+例外,10,10,100.00
+MLT 別冊vol.1,3,5,60.00
+応用情報技術者,2,3,66.67
+UI,12,19,63.16
+STL,3,3,100.00
+サーブレット,31,43,72.09
+Slack,6,12,50.00
+ダウンロード,2,7,28.57
+TeamCity,0,1,0.00
+iOS 4,1,4,25.00
+モック,0,1,0.00
+FORTRAN,1,5,20.00
+Chrome Apps,1,2,50.00
+Cisco,5,7,71.43
+COM,5,7,71.43
+milkcocoa meetup#2,0,3,0.00
+Haxe,0,1,0.00
+Milkcocoa,12,30,40.00
+Parse.com,14,25,56.00
+Core Data,2,6,33.33
+ヒカラボ フロントUIUX,5,9,55.56
+パラメータ,3,3,100.00
+ARMv7,0,1,0.00
+ページネーション,2,3,66.67
+Clang,1,2,50.00
+ヒカラボ　ヒトクセ,0,6,0.00
+GHC,1,2,50.00
+ヒカラボ 七島,0,1,0.00
+Struts 2,19,31,61.29
+Qt Creator,1,4,25.00
+Mono,0,2,0.00
+Visual Studio 2010,14,22,63.64
+CasperJS,1,6,16.67
+情報セキュリティスペシャリスト,6,7,85.71
+Visual Studio 2013,114,137,83.21
+ヒカラボ七島,0,2,0.00
+ASP.NET MVC 4,13,22,59.09
+XHTML,6,12,50.00
+MSBuild,1,1,100.00
+マイコン,8,12,66.67
+インストーラー,4,4,100.00
+Berkshelf,0,1,0.00
+PayPal,4,8,50.00
+Ruby on Rails 3.2.0,7,10,70.00
+FXML,3,3,100.00
+命名規則,3,3,100.00
+Android Emulator,11,25,44.00
+例外処理,7,9,77.78
+Flex 4,3,4,75.00
+imagick,1,1,100.00
+Cocos2d for iPhone,1,1,100.00
+ChatOps,1,2,50.00
+DLL,8,18,44.44
+Interface Builder,3,4,75.00
+暗号化,13,21,61.90
+Scalable Vector Graphics,1,1,100.00
+スクロール,3,4,75.00
+コールバック,1,1,100.00
+KVM,7,9,77.78
+パーミッション,3,3,100.00
+パース,0,3,0.00
+Onsen UI,6,14,42.86
+.NET Framework 4.0,6,12,50.00
+基本情報技術者,12,15,80.00
+DataGrid,1,3,33.33
+hover,4,6,66.67
+ウィジェット,2,4,50.00
+Capistrano,7,12,58.33
+Kinect,3,8,37.50
+GPS,6,11,54.55
+chef-solo,2,10,20.00
+Blender,4,7,57.14
+PhpStorm,8,11,72.73
+Visual Basic 6.0,4,4,100.00
+ファイルI/O,6,9,66.67
+Movable Type,6,14,42.86
+serverspec,1,3,33.33
+関数型プログラミング,4,5,80.00
+Spring Boot,21,32,65.62
+Swift 2,264,413,63.92
+OAuth 2.0,4,11,36.36
+OpenID Connect,1,1,100.00
+WSH,7,8,87.50
+Intel Edison,2,5,40.00
+Silverlight,0,1,0.00
+Azure,21,34,61.76
+NullPointerException,6,6,100.00
+laravel 5,71,102,69.61
+ADO.NET,1,1,100.00
+VB.NET,125,173,72.25
+GitBucket,2,3,66.67
+リストボックス,2,3,66.67
+GsACADEMY,10,23,43.48
+バインド,2,2,100.00
+Oculus Rift,2,3,66.67
+Boost,5,5,100.00
+バッチファイル,27,35,77.14
+ドキュメント,6,7,85.71
+.NET Framework 3.5,5,5,100.00
+ドメイン駆動設計,0,5,0.00
+メモリリーク,5,12,41.67
+ヒカラボLIG_SHIFTBRAIN,0,1,0.00
+GIMP,2,2,100.00
+Inkscape,1,1,100.00
+Fabric,10,14,71.43
+スライダー,5,15,33.33
+ループ,9,10,90.00
+データ構造,4,5,80.00
+XPath(XML Path),5,8,62.50
+再帰,6,9,66.67
+make,6,9,66.67
+SNMP,2,2,100.00
+RRDTool,1,1,100.00
+XSLT,3,5,60.00
+CSSフレームワーク,21,31,67.74
+while,9,12,75.00
+Unicode,5,10,50.00
+Processing,16,32,50.00
+munin,1,1,100.00
+New Relic,2,3,66.67
+Windows Phone,2,2,100.00
+CCNA,1,2,50.00
+CCAr,1,1,100.00
+Solaris,1,1,100.00
+Phalcon,3,6,50.00
+ASP.NET MVC Framework,5,6,83.33
+Null,6,8,75.00
+ヒカラボ_アカツキ,0,3,0.00
+JIRA,0,1,0.00
+Dreamweaver,2,9,22.22
+EC-CUBE,30,54,55.56
+ポップアップ,0,1,0.00
+TeX,5,8,62.50
+コードレビュー,8,10,80.00
+SDL2 (Simple DirectMedia Layer2),1,1,100.00
+chrome extension,6,12,50.00
+タブ,2,5,40.00
+zip,5,8,62.50
+monaca,22,63,34.92
+Middleman,1,1,100.00
+Groonga,2,3,66.67
+Red Hat Enterprise,11,17,64.71
+BitBucket,12,23,52.17
+PL/SQL,3,6,50.00
+Code::Blocks,1,1,100.00
+WPF,47,61,77.05
+AppleWatch,0,3,0.00
+Bitcoin,1,2,50.00
+コンパイルエラー,5,7,71.43
+textbox,3,5,60.00
+DB2,9,16,56.25
+Pylons,1,1,100.00
+Erlang,1,4,25.00
+ソフトウェアテスト,3,8,37.50
+ChatWork,0,1,0.00
+JTable,4,4,100.00
+SDL (Simple DirectMedia Layer),1,1,100.00
+SQLAlchemy,1,2,50.00
+gulp,29,45,64.44
+webpack,2,4,50.00
+Browserify,2,4,50.00
+アクセシビリティ,2,2,100.00
+Office 365,2,4,50.00
+D,0,1,0.00
+char,8,8,100.00
+MAMP,15,22,68.18
+GROUP BY,2,3,66.67
+drone.io,1,4,25.00
+Wireshark,2,2,100.00
+Web Starter Kit,1,1,100.00
+Redis,10,17,58.82
+Less,2,4,50.00
+リフレクション,2,2,100.00
+CPAN,4,5,80.00
+浮動小数点,1,2,50.00
+Skype,0,2,0.00
+Visual Studio 2012,11,14,78.57
+IoT,5,8,62.50
+JVM,1,1,100.00
+libGDX,7,7,100.00
+MQTT,0,2,0.00
+オートコンプリート,1,1,100.00
+WebRTC,3,7,42.86
+WebStorm,1,2,50.00
+JasperReports,1,4,25.00
+React.js,18,25,72.00
+codeception,1,1,100.00
+Symfony1,4,5,80.00
+iteratorパターン,5,5,100.00
+ドラッグ&ドロップ,1,2,50.00
+UE4,0,2,0.00
+MinGW,4,5,80.00
+Mercurial,0,2,0.00
+Oracle Database 10g,5,10,50.00
+NFC,0,4,0.00
+CRLF,1,1,100.00
+font,14,22,63.64
+iOS 5,1,2,50.00
+ASP.NET MVC 3,2,2,100.00
+RubyMine,2,6,33.33
+ICC,0,1,0.00
+karesansui,0,1,0.00
+libvirt,3,5,60.00
+GRUNT,3,5,60.00
+Delphi,2,4,50.00
+クロスブラウザ,0,2,0.00
+Network Simulator,1,2,50.00
+KNOPPIX,1,1,100.00
+Travis CI,1,2,50.00
+Circle CI,1,4,25.00
+CI(継続的インテグレーション),3,6,50.00
+Emmet,1,2,50.00
+Windows 10,42,65,64.62
+Internet Explorer 9,6,6,100.00
+UI Design,8,11,72.73
+GLSL,0,2,0.00
+Dojo Toolkit,1,1,100.00
+シリアルポート,1,2,50.00
+Fluentd,5,12,41.67
+アセンブリ言語,4,5,80.00
+csh,1,2,50.00
+ColdFusion,1,3,33.33
+Spark,2,7,28.57
+SpriteKit,10,21,47.62
+Geolocation,4,5,80.00
+ネットワークスペシャリスト,2,5,40.00
+Sensu,0,1,0.00
+Cocoa Touch,3,6,50.00
+Yahoo! Query Language,1,2,50.00
+プロジェクトマネージャ(資格),0,2,0.00
+Coq,1,1,100.00
+コンパイラ,5,6,83.33
+FreeBSD,4,6,66.67
+NFS,2,3,66.67
+Kibana,2,2,100.00
+AR(Augmented Reality),1,4,25.00
+metaio SDK,0,1,0.00
+IMAP,2,2,100.00
+Delegates,2,2,100.00
+並列処理,1,3,33.33
+Puppet,1,2,50.00
+float(CSS),4,5,80.00
+メニュー,1,1,100.00
+インターフェース,3,4,75.00
+Nagios,0,1,0.00
+スレッドセーフ,2,4,50.00
+リソース,1,1,100.00
+Bower,4,5,80.00
+web.config,3,5,60.00
+ECMAScript,14,19,73.68
+ダイアログ,1,2,50.00
+checkbox,7,10,70.00
+wercker,1,1,100.00
+VPN,4,8,50.00
+Windows XP,0,2,0.00
+BaaS,0,3,0.00
+Xcode 7,114,176,64.77
+JSF,15,23,65.22
+クラッシュ,1,2,50.00
+Titanium Mobile,0,2,0.00
+iOS 9,43,75,57.33
+Flex,3,3,100.00
+Underscore.js,4,8,50.00
+Small Basic,1,1,100.00
+Appiaries,1,1,100.00
+Leap Motion,2,5,40.00
+F#,1,2,50.00
+Crystal Reports,3,4,75.00
+Highcharts,4,9,44.44
+logrotate,2,3,66.67
+C++14,17,18,94.44
+Google Container Engine (GKE) ,0,1,0.00
+リンカ,2,2,100.00
+ASP.NET Web API,2,2,100.00
+Gentoo Linux,1,1,100.00
+Pepper,2,4,50.00
+Bugzilla,1,1,100.00
+TERASOLUNA,3,3,100.00
+structure,1,2,50.00
+Electron,12,27,44.44
+apt-get,3,4,75.00
+ニフティクラウドmobile backend,6,7,85.71
+Dovecot,10,13,76.92
+x86,1,2,50.00
+LLVM ,0,1,0.00
+Realm,9,13,69.23
+VC++,19,33,57.58
+SASL,1,2,50.00
+Unity2D,22,53,41.51
+Julius,1,1,100.00
+Team Foundation Server,1,1,100.00
+GHOST,1,1,100.00
+シェル芸,1,1,100.00
+JavaServer Faces,3,3,100.00
+Ninja,0,1,0.00
+openSUSE,1,1,100.00
+Treasure Data,0,2,0.00
+TreasureData,0,1,0.00
+mBaaS,4,15,26.67
+SpriteBuilder,4,4,100.00
+h2o,1,1,100.00
+MFC,8,10,80.00
+AppleScript,0,2,0.00
+GDB,1,2,50.00
+Kii Cloud,0,4,0.00
+OpenStack,6,11,54.55
+Kotlin,2,4,50.00
+リサイズ,1,1,100.00
+公開鍵認証,5,5,100.00
+NTP,3,4,75.00
+Google Analytics API,0,4,0.00
+LXC,6,8,75.00
+CMake,5,6,83.33
+Network+,2,3,66.67
+Storage+,0,1,0.00
+Drupal,0,1,0.00
+ゲーム開発,10,12,83.33
+webapp2,4,6,66.67
+POP,1,2,50.00
+Server+,2,4,50.00
+スクラム開発,0,1,0.00
+Pivotal Tracker,1,2,50.00
+Trac,0,1,0.00
+JMeter,1,2,50.00
+XUL,1,2,50.00
+Jinja,2,4,50.00
+RPG,1,3,33.33
+ARMv6,0,1,0.00
+Thunderbird,0,1,0.00
+TensorFlow,2,6,33.33
+情報処理技術者,1,1,100.00
+ラジオボタン,1,1,100.00
+ASP.NET MVC 2,1,1,100.00
+MediaWiki,1,1,100.00
+PukiWiki,1,1,100.00
+Ruby on Rails 3.1,2,5,40.00
+LibreOffice Calc,1,1,100.00
+Marionette.js,2,2,100.00
+ロケーション,1,2,50.00
+Magento,0,1,0.00
+ドロップダウンメニュー,0,1,0.00
+Security+,2,3,66.67
+Confluence,0,1,0.00
+DataSet,0,2,0.00
+WebLogic Server,1,1,100.00
+JSONP,1,2,50.00
+Curl（プログラミング言語）,1,2,50.00
+Apex,1,1,100.00
+JNI,1,1,100.00
+Elixir,1,1,100.00
+ソケット,1,3,33.33
+KVS,0,1,0.00
+Xen,1,1,100.00
+GTK+,0,1,0.00
+JBoss Application Server,1,2,50.00
+リッチスニペット,2,3,66.67
+Elastic Load Balancing,1,2,50.00
+SQL Server Reporting Services,0,1,0.00
+MapReduce,0,1,0.00
+CORS,1,1,100.00
+Embulk,1,1,100.00
+ウィンドウ,1,1,100.00
+タイムアウト,2,2,100.00
+Gitlab CE,1,2,50.00
+コンボボックス,1,2,50.00
+FMDB,0,1,0.00
+セグメント,0,1,0.00
+VisualStudioCode,1,1,100.00
+タッチパネル,0,1,0.00
+Salesforce,0,1,0.00
+ロギング,1,1,100.00
+g++,0,1,0.00
+Auto Scaling,0,1,0.00
+GlusterFS,0,1,0.00
+Capybara,1,2,50.00
+BI,0,1,0.00
+angular2,1,2,50.00
+PyPy,1,1,100.00
+PL/pgSQL,1,1,100.00
+Ansible Tutorial,1,1,100.00
+Silex,2,3,66.67
+SharePoint,0,1,0.00
+MessagePack,0,1,0.00
+LotusScript,0,1,0.00
